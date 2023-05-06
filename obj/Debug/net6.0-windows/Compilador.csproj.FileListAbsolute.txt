@@ -1,0 +1,119 @@
+C:\Users\cesar\source\repos\Compilador\bin\Debug\net6.0-windows\Compilador.exe
+C:\Users\cesar\source\repos\Compilador\bin\Debug\net6.0-windows\Compilador.deps.json
+C:\Users\cesar\source\repos\Compilador\bin\Debug\net6.0-windows\Compilador.runtimeconfig.json
+C:\Users\cesar\source\repos\Compilador\bin\Debug\net6.0-windows\Compilador.dll
+C:\Users\cesar\source\repos\Compilador\bin\Debug\net6.0-windows\Compilador.pdb
+C:\Users\cesar\source\repos\Compilador\obj\Debug\net6.0-windows\Compilador.csproj.AssemblyReference.cache
+C:\Users\cesar\source\repos\Compilador\obj\Debug\net6.0-windows\Compilador.Main.resources
+C:\Users\cesar\source\repos\Compilador\obj\Debug\net6.0-windows\Compilador.csproj.GenerateResource.cache
+C:\Users\cesar\source\repos\Compilador\obj\Debug\net6.0-windows\Compilador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar\source\repos\Compilador\obj\Debug\net6.0-windows\Compilador.AssemblyInfoInputs.cache
+C:\Users\cesar\source\repos\Compilador\obj\Debug\net6.0-windows\Compilador.AssemblyInfo.cs
+C:\Users\cesar\source\repos\Compilador\obj\Debug\net6.0-windows\Compilador.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\Compilador\obj\Debug\net6.0-windows\Compilador.dll
+C:\Users\cesar\source\repos\Compilador\obj\Debug\net6.0-windows\refint\Compilador.dll
+C:\Users\cesar\source\repos\Compilador\obj\Debug\net6.0-windows\Compilador.pdb
+C:\Users\cesar\source\repos\Compilador\obj\Debug\net6.0-windows\Compilador.genruntimeconfig.cache
+C:\Users\cesar\source\repos\Compilador\obj\Debug\net6.0-windows\ref\Compilador.dll
+F:\6to\Lenguajes Automatas (6to Semestre)\Compilador\bin\Debug\net6.0-windows\Compilador.exe
+F:\6to\Lenguajes Automatas (6to Semestre)\Compilador\bin\Debug\net6.0-windows\Compilador.deps.json
+F:\6to\Lenguajes Automatas (6to Semestre)\Compilador\bin\Debug\net6.0-windows\Compilador.runtimeconfig.json
+F:\6to\Lenguajes Automatas (6to Semestre)\Compilador\bin\Debug\net6.0-windows\Compilador.dll
+F:\6to\Lenguajes Automatas (6to Semestre)\Compilador\bin\Debug\net6.0-windows\Compilador.pdb
+F:\6to\Lenguajes Automatas (6to Semestre)\Compilador\obj\Debug\net6.0-windows\Compilador.csproj.AssemblyReference.cache
+F:\6to\Lenguajes Automatas (6to Semestre)\Compilador\obj\Debug\net6.0-windows\Compilador.Main.resources
+F:\6to\Lenguajes Automatas (6to Semestre)\Compilador\obj\Debug\net6.0-windows\Compilador.csproj.GenerateResource.cache
+F:\6to\Lenguajes Automatas (6to Semestre)\Compilador\obj\Debug\net6.0-windows\Compilador.GeneratedMSBuildEditorConfig.editorconfig
+F:\6to\Lenguajes Automatas (6to Semestre)\Compilador\obj\Debug\net6.0-windows\Compilador.AssemblyInfoInputs.cache
+F:\6to\Lenguajes Automatas (6to Semestre)\Compilador\obj\Debug\net6.0-windows\Compilador.AssemblyInfo.cs
+F:\6to\Lenguajes Automatas (6to Semestre)\Compilador\obj\Debug\net6.0-windows\Compilador.csproj.CoreCompileInputs.cache
+F:\6to\Lenguajes Automatas (6to Semestre)\Compilador\obj\Debug\net6.0-windows\Compilador.dll
+F:\6to\Lenguajes Automatas (6to Semestre)\Compilador\obj\Debug\net6.0-windows\refint\Compilador.dll
+F:\6to\Lenguajes Automatas (6to Semestre)\Compilador\obj\Debug\net6.0-windows\Compilador.pdb
+F:\6to\Lenguajes Automatas (6to Semestre)\Compilador\obj\Debug\net6.0-windows\Compilador.genruntimeconfig.cache
+F:\6to\Lenguajes Automatas (6to Semestre)\Compilador\obj\Debug\net6.0-windows\ref\Compilador.dll
+E:\6to\Lenguajes Automatas (6to Semestre)\Compilador\bin\Debug\net6.0-windows\Compilador.exe
+E:\6to\Lenguajes Automatas (6to Semestre)\Compilador\bin\Debug\net6.0-windows\Compilador.deps.json
+E:\6to\Lenguajes Automatas (6to Semestre)\Compilador\bin\Debug\net6.0-windows\Compilador.runtimeconfig.json
+E:\6to\Lenguajes Automatas (6to Semestre)\Compilador\bin\Debug\net6.0-windows\Compilador.dll
+E:\6to\Lenguajes Automatas (6to Semestre)\Compilador\bin\Debug\net6.0-windows\Compilador.pdb
+E:\6to\Lenguajes Automatas (6to Semestre)\Compilador\obj\Debug\net6.0-windows\Compilador.csproj.AssemblyReference.cache
+E:\6to\Lenguajes Automatas (6to Semestre)\Compilador\obj\Debug\net6.0-windows\Compilador.Main.resources
+E:\6to\Lenguajes Automatas (6to Semestre)\Compilador\obj\Debug\net6.0-windows\Compilador.csproj.GenerateResource.cache
+E:\6to\Lenguajes Automatas (6to Semestre)\Compilador\obj\Debug\net6.0-windows\Compilador.GeneratedMSBuildEditorConfig.editorconfig
+E:\6to\Lenguajes Automatas (6to Semestre)\Compilador\obj\Debug\net6.0-windows\Compilador.AssemblyInfoInputs.cache
+E:\6to\Lenguajes Automatas (6to Semestre)\Compilador\obj\Debug\net6.0-windows\Compilador.AssemblyInfo.cs
+E:\6to\Lenguajes Automatas (6to Semestre)\Compilador\obj\Debug\net6.0-windows\Compilador.csproj.CoreCompileInputs.cache
+E:\6to\Lenguajes Automatas (6to Semestre)\Compilador\obj\Debug\net6.0-windows\Compilador.dll
+E:\6to\Lenguajes Automatas (6to Semestre)\Compilador\obj\Debug\net6.0-windows\refint\Compilador.dll
+E:\6to\Lenguajes Automatas (6to Semestre)\Compilador\obj\Debug\net6.0-windows\Compilador.pdb
+E:\6to\Lenguajes Automatas (6to Semestre)\Compilador\obj\Debug\net6.0-windows\Compilador.genruntimeconfig.cache
+E:\6to\Lenguajes Automatas (6to Semestre)\Compilador\obj\Debug\net6.0-windows\ref\Compilador.dll
+E:\7mo\Automatas II\Compilador\bin\Debug\net6.0-windows\Compilador.exe
+E:\7mo\Automatas II\Compilador\bin\Debug\net6.0-windows\Compilador.deps.json
+E:\7mo\Automatas II\Compilador\bin\Debug\net6.0-windows\Compilador.runtimeconfig.json
+E:\7mo\Automatas II\Compilador\bin\Debug\net6.0-windows\Compilador.dll
+E:\7mo\Automatas II\Compilador\bin\Debug\net6.0-windows\Compilador.pdb
+E:\7mo\Automatas II\Compilador\obj\Debug\net6.0-windows\Compilador.csproj.AssemblyReference.cache
+E:\7mo\Automatas II\Compilador\obj\Debug\net6.0-windows\Compilador.Main.resources
+E:\7mo\Automatas II\Compilador\obj\Debug\net6.0-windows\Compilador.csproj.GenerateResource.cache
+E:\7mo\Automatas II\Compilador\obj\Debug\net6.0-windows\Compilador.GeneratedMSBuildEditorConfig.editorconfig
+E:\7mo\Automatas II\Compilador\obj\Debug\net6.0-windows\Compilador.AssemblyInfoInputs.cache
+E:\7mo\Automatas II\Compilador\obj\Debug\net6.0-windows\Compilador.AssemblyInfo.cs
+E:\7mo\Automatas II\Compilador\obj\Debug\net6.0-windows\Compilador.csproj.CoreCompileInputs.cache
+E:\7mo\Automatas II\Compilador\obj\Debug\net6.0-windows\Compilador.dll
+E:\7mo\Automatas II\Compilador\obj\Debug\net6.0-windows\refint\Compilador.dll
+E:\7mo\Automatas II\Compilador\obj\Debug\net6.0-windows\Compilador.pdb
+E:\7mo\Automatas II\Compilador\obj\Debug\net6.0-windows\Compilador.genruntimeconfig.cache
+E:\7mo\Automatas II\Compilador\obj\Debug\net6.0-windows\ref\Compilador.dll
+F:\7mo\Automatas II\Compilador\obj\Debug\net6.0-windows\Compilador.csproj.AssemblyReference.cache
+F:\7mo\Automatas II\Compilador\obj\Debug\net6.0-windows\Compilador.Main.resources
+F:\7mo\Automatas II\Compilador\obj\Debug\net6.0-windows\Compilador.csproj.GenerateResource.cache
+F:\7mo\Automatas II\Compilador\obj\Debug\net6.0-windows\Compilador.GeneratedMSBuildEditorConfig.editorconfig
+F:\7mo\Automatas II\Compilador\obj\Debug\net6.0-windows\Compilador.AssemblyInfoInputs.cache
+F:\7mo\Automatas II\Compilador\obj\Debug\net6.0-windows\Compilador.AssemblyInfo.cs
+F:\7mo\Automatas II\Compilador\obj\Debug\net6.0-windows\Compilador.csproj.CoreCompileInputs.cache
+F:\7mo\Automatas II\Compilador\obj\Debug\net6.0-windows\Compilador.dll
+F:\7mo\Automatas II\Compilador\obj\Debug\net6.0-windows\refint\Compilador.dll
+F:\7mo\Automatas II\Compilador\obj\Debug\net6.0-windows\Compilador.pdb
+F:\7mo\Automatas II\Compilador\bin\Debug\net6.0-windows\Compilador.exe
+F:\7mo\Automatas II\Compilador\bin\Debug\net6.0-windows\Compilador.deps.json
+F:\7mo\Automatas II\Compilador\bin\Debug\net6.0-windows\Compilador.runtimeconfig.json
+F:\7mo\Automatas II\Compilador\bin\Debug\net6.0-windows\Compilador.dll
+F:\7mo\Automatas II\Compilador\bin\Debug\net6.0-windows\Compilador.pdb
+F:\7mo\Automatas II\Compilador\obj\Debug\net6.0-windows\Compilador.genruntimeconfig.cache
+F:\7mo\Automatas II\Compilador\obj\Debug\net6.0-windows\ref\Compilador.dll
+C:\Users\cesar\OneDrive\Escritorio\Escuela\Compilador\bin\Debug\net6.0-windows\Compilador.exe
+C:\Users\cesar\OneDrive\Escritorio\Escuela\Compilador\bin\Debug\net6.0-windows\Compilador.deps.json
+C:\Users\cesar\OneDrive\Escritorio\Escuela\Compilador\bin\Debug\net6.0-windows\Compilador.runtimeconfig.json
+C:\Users\cesar\OneDrive\Escritorio\Escuela\Compilador\bin\Debug\net6.0-windows\Compilador.dll
+C:\Users\cesar\OneDrive\Escritorio\Escuela\Compilador\bin\Debug\net6.0-windows\Compilador.pdb
+C:\Users\cesar\OneDrive\Escritorio\Escuela\Compilador\obj\Debug\net6.0-windows\Compilador.csproj.AssemblyReference.cache
+C:\Users\cesar\OneDrive\Escritorio\Escuela\Compilador\obj\Debug\net6.0-windows\Compilador.Main.resources
+C:\Users\cesar\OneDrive\Escritorio\Escuela\Compilador\obj\Debug\net6.0-windows\Compilador.csproj.GenerateResource.cache
+C:\Users\cesar\OneDrive\Escritorio\Escuela\Compilador\obj\Debug\net6.0-windows\Compilador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar\OneDrive\Escritorio\Escuela\Compilador\obj\Debug\net6.0-windows\Compilador.AssemblyInfoInputs.cache
+C:\Users\cesar\OneDrive\Escritorio\Escuela\Compilador\obj\Debug\net6.0-windows\Compilador.AssemblyInfo.cs
+C:\Users\cesar\OneDrive\Escritorio\Escuela\Compilador\obj\Debug\net6.0-windows\Compilador.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Escritorio\Escuela\Compilador\obj\Debug\net6.0-windows\Compilador.dll
+C:\Users\cesar\OneDrive\Escritorio\Escuela\Compilador\obj\Debug\net6.0-windows\refint\Compilador.dll
+C:\Users\cesar\OneDrive\Escritorio\Escuela\Compilador\obj\Debug\net6.0-windows\Compilador.pdb
+C:\Users\cesar\OneDrive\Escritorio\Escuela\Compilador\obj\Debug\net6.0-windows\Compilador.genruntimeconfig.cache
+C:\Users\cesar\OneDrive\Escritorio\Escuela\Compilador\obj\Debug\net6.0-windows\ref\Compilador.dll
+C:\Users\cesar\OneDrive\Escritorio\Compilador\bin\Debug\net6.0-windows\Compilador.exe
+C:\Users\cesar\OneDrive\Escritorio\Compilador\bin\Debug\net6.0-windows\Compilador.deps.json
+C:\Users\cesar\OneDrive\Escritorio\Compilador\bin\Debug\net6.0-windows\Compilador.runtimeconfig.json
+C:\Users\cesar\OneDrive\Escritorio\Compilador\bin\Debug\net6.0-windows\Compilador.dll
+C:\Users\cesar\OneDrive\Escritorio\Compilador\bin\Debug\net6.0-windows\Compilador.pdb
+C:\Users\cesar\OneDrive\Escritorio\Compilador\obj\Debug\net6.0-windows\Compilador.csproj.AssemblyReference.cache
+C:\Users\cesar\OneDrive\Escritorio\Compilador\obj\Debug\net6.0-windows\Compilador.Main.resources
+C:\Users\cesar\OneDrive\Escritorio\Compilador\obj\Debug\net6.0-windows\Compilador.csproj.GenerateResource.cache
+C:\Users\cesar\OneDrive\Escritorio\Compilador\obj\Debug\net6.0-windows\Compilador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar\OneDrive\Escritorio\Compilador\obj\Debug\net6.0-windows\Compilador.AssemblyInfoInputs.cache
+C:\Users\cesar\OneDrive\Escritorio\Compilador\obj\Debug\net6.0-windows\Compilador.AssemblyInfo.cs
+C:\Users\cesar\OneDrive\Escritorio\Compilador\obj\Debug\net6.0-windows\Compilador.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Escritorio\Compilador\obj\Debug\net6.0-windows\Compilador.dll
+C:\Users\cesar\OneDrive\Escritorio\Compilador\obj\Debug\net6.0-windows\refint\Compilador.dll
+C:\Users\cesar\OneDrive\Escritorio\Compilador\obj\Debug\net6.0-windows\Compilador.pdb
+C:\Users\cesar\OneDrive\Escritorio\Compilador\obj\Debug\net6.0-windows\Compilador.genruntimeconfig.cache
+C:\Users\cesar\OneDrive\Escritorio\Compilador\obj\Debug\net6.0-windows\ref\Compilador.dll
